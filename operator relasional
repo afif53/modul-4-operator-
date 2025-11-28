@@ -1,0 +1,25 @@
+# Contoh program
+def main():
+    # mendefinisikan variabel x dan y
+    # dan li (bertipe list)
+    x = 8
+    y = 5
+    li = [2, 4, 8, 16, 32]
+
+    # menampilkan nilai x dan y
+    print('x =', x)
+    print('y =', y)
+    print(li)
+
+    # melakukan pemeriksaan terhadap x dan y
+    print('x == y', (x == y))
+    print('x != y', (x != y))
+    print('x > y', (x > y))
+    print('x >= y', (x >= y))
+    print('x < y', (x < y))
+    print('x <= y', (x <= y))
+    print('x in li', (x in li))
+    print('y in li', (y in li))
+
+if __name__ == '__main__':
+    main()
