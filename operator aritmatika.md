@@ -1,5 +1,5 @@
 # modul-4-operator-
-berisi sample koding operator aritmatika dan relasional
+berisi sample koding operator aritmatika
 
 # Contoh program
 def main():
